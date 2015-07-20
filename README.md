@@ -1,2 +1,2 @@
 # test_repo
-Repozytorjum testowe
+Repozytorium testowe
